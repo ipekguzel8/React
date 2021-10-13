@@ -13,8 +13,8 @@
       "categoryId": 1,
       "productName": "Chang",
       "quantityPerUnit": "24 - 12 oz bottles",
-      "unitPrice": "21",
-      "unitsInStock": 17
+      "unitPrice": "28",
+      "unitsInStock": "28"
     },
     {
       "id": 4,
@@ -615,6 +615,22 @@
       "quantityPerUnit": "1",
       "unitsInStock": "2",
       "id": 78
+    },
+    {
+      "productName": "Laptop",
+      "categoryId": 4,
+      "unitPrice": "1000",
+      "quantityPerUnit": "1",
+      "unitsInStock": "2",
+      "id": 79
+    },
+    {
+      "productName": "Hespa",
+      "categoryId": 3,
+      "unitPrice": "28",
+      "quantityPerUnit": "1",
+      "unitsInStock": "2",
+      "id": 80
     }
   ],
   "categories": [

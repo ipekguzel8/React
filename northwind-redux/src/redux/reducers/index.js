@@ -2,11 +2,13 @@ import { combineReducers } from "redux";
 import changeCategoryReducer from "./changeCategoryReducers"
 import categoryListReducer from "./categoryListReducer"
 import productListReducer  from "./productListReducer";
+import saveProductReducer  from "./saveProductReducer";
 import cartReducer from "./cartReducer";
 const rootReducer= combineReducers({
     changeCategoryReducer,
     categoryListReducer,
     productListReducer,
-    cartReducer
+    cartReducer,
+    saveProductReducer
 })
 export default rootReducer;
